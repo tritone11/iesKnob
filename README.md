@@ -1,4 +1,4 @@
-# iesKnob v0.1.1
+# iesKnob v0.1.2
 Animated arc for scores and gamification in websites  
 ![example](https://github.com/tritone11/iesKnob/blob/master/arc.gif?raw=true)
 

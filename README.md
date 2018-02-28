@@ -1,6 +1,6 @@
 # iesKnob v0.1
 Animated arc for scores and gamification in websites
-
+[!example](https://github.com/tritone11/iesKnob/blob/master/arc.PNG?raw=true)
 
 ## Usage
 Include iesKnob.js in your webpage, then create an html element  

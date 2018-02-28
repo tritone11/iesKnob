@@ -31,3 +31,7 @@ data-knob-gradient1  Color of gradient for the arc
 data-knob-gradient2  Color of gradient for the arc
 data-knob-color      Color of the arc
 ```
+
+### Browser support
+
+Currently supported only by Chrome and Firefox on desktop

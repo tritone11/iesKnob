@@ -1,4 +1,4 @@
-# iesKnob v0.1
+# iesKnob v0.1.1
 Animated arc for scores and gamification in websites  
 ![example](https://github.com/tritone11/iesKnob/blob/master/arc.gif?raw=true)
 
@@ -34,4 +34,4 @@ data-knob-color      Color of the arc
 
 ### Browser support
 
-Currently supported only by Chrome and Firefox on desktop
+Currently supported only by Chrome, Edge and Firefox 

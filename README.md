@@ -22,16 +22,19 @@ _iesKnob.init("force")
 
 ### Parameters 
 ```
-data-knob-percentage Percentage of completion
-data-knob-timing     Timing of animation in seconds
-data-knob-image      Background image of circle
-data-knob-dotimage   The dot that draw the arc can be changed with an image (for example a star)
-data-knob-dotcolor   If no image is defined, it will be a dot with this color
-data-knob-gradient1  Color of gradient for the arc
-data-knob-gradient2  Color of gradient for the arc
-data-knob-color      Color of the arc
+data-knob-percentage            Percentage of completion
+data-knob-timing                Timing of animation in seconds
+data-knob-image                 Background image of circle
+data-knob-dotimage              The dot that draw the arc can be changed with an image (for example a star)
+data-knob-dotcolor              If no image is defined, it will be a dot with this color as a border
+data-knob-gradient1             Color of gradient for the arc
+data-knob-gradient2             Color of gradient for the arc
+data-knob-color                 Color of the arc
+data-knob-dotcolorinside        Color of inside of the dot
+data-knob-dotborder             Border width of dot
+data-knob-dotradius             Dot radius
 ```
 
 ### Browser support
 
-Currently tested only by Chrome, Edge and Firefox 
+Currently tested only by Chrome, Edge, Safari and Firefox 

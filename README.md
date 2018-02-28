@@ -34,4 +34,4 @@ data-knob-color      Color of the arc
 
 ### Browser support
 
-Currently supported only by Chrome, Edge and Firefox 
+Currently tested only by Chrome, Edge and Firefox 

@@ -37,4 +37,5 @@ data-knob-dotradius             Dot radius
 
 ### Browser support
 
-Currently tested only by Chrome, Edge, Safari and Firefox 
+Currently tested only by Chrome, Edge, Safari and Firefox   
+Based on https://markus.oberlehner.net/blog/pure-css-animated-svg-circle-chart/

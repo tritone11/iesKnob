@@ -1,4 +1,4 @@
-# iesKnob v0.1.2
+# iesKnob v0.1.3
 Animated arc for scores and gamification in websites  
 ![example](https://github.com/tritone11/iesKnob/blob/master/arc.gif?raw=true)
 
@@ -22,6 +22,8 @@ _iesKnob.init("force")
 
 ### Parameters 
 ```
+data-knob-strokewidth           Stroke width of arc
+data-knob-html                  If set, data-knob-image can support html instead of image link (icons, text, ecc)
 data-knob-percentage            Percentage of completion
 data-knob-timing                Timing of animation in seconds
 data-knob-image                 Background image of circle

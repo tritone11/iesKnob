@@ -25,7 +25,7 @@ _iesKnob.init("force")
 data-knob-strokewidth           Stroke width of arc
 data-knob-html                  If set, data-knob-image can support html instead of image link (icons, text, ecc)
 data-knob-percentage            Percentage of completion
-data-knob-timing                Timing of animation in seconds
+data-knob-timing                Timing of animation in seconds. If 0, the arc will not animate but will just be rendered
 data-knob-image                 Background image of circle
 data-knob-dotimage              The dot that draw the arc can be changed with an image (for example a star)
 data-knob-dotcolor              If no image is defined, it will be a dot with this color as a border

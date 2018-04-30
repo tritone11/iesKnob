@@ -39,5 +39,6 @@ data-knob-dotradius             Dot radius
 
 ### Browser support
 
-Currently tested only on Chrome, Edge, Safari and Firefox   
+Currently tested only on Chrome, Edge, Safari and Firefox  
+There is a bug on iOs browsers where the star is not moving along the path.  
 Based on https://markus.oberlehner.net/blog/pure-css-animated-svg-circle-chart/

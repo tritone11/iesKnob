@@ -35,6 +35,9 @@ data-knob-color                 Color of the arc
 data-knob-dotcolorinside        Color of inside of the dot
 data-knob-dotborder             Border width of dot
 data-knob-dotradius             Dot radius
+data-knob-colorhover            rgba overlay when hover
+data-knob-iconhover             url of icon on hover
+data-knob-iconsize              size of icon on hover in percentage or pixels
 ```
 
 ### Browser support

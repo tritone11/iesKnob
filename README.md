@@ -44,4 +44,7 @@ data-knob-iconsize              size of icon on hover in percentage or pixels
 
 Currently tested only on Chrome, Edge, Safari and Firefox  
 There is a bug on iOs browsers where the star is not moving along the path.  
-Based on https://markus.oberlehner.net/blog/pure-css-animated-svg-circle-chart/
+Based on https://markus.oberlehner.net/blog/pure-css-animated-svg-circle-chart/  
+  
+The load on the GPU is really high and a large use of this could decrease the performances of the web pages.  
+There is also a version with canvas (canvas.js) with less features (no gradient color, no dot on the arc) but better performances.
